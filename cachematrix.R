@@ -1,6 +1,4 @@
 # Functions that cache the inverse of a matrix.
-
-
 ## function that set and get the value of a matrix and its inverse
 makeCacheMatrix <- function(x = matrix()) {
   inverse <- NULL
